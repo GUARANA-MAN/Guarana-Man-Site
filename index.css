@@ -46,13 +46,14 @@ justify-content: center;
 }
 
 
-.texto{
+.testu{
 
 text-align:initial;
+display:block;
 
 }
 .imagem{
-    width: 50%;
+    width: 25%;
 }
 img {
     height: px;
