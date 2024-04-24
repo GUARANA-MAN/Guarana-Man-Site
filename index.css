@@ -27,29 +27,6 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h3 {
-    list-style-type: none;
-    padding: 30px;
-    justify-content: center;
-    font-size: x-large;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-h4 {
-    display: flex;
-    font-family: Arial, Helvetica, sans-serif;
-    justify-content: center;
-    width: 20%;
-    font-size: large;
-}
-
-h5 { 
-    display: flex;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: xx-large;
-    padding-top: 10%;
-}
-
 h6{
 
     display:flex;
@@ -57,18 +34,30 @@ h6{
     padding: 56px;
 }
 
-h7{
-    display:flex;
-    justify-content:center;
-    height: 100pxS;
-    
-    
-    
+
+
+
+.Guaraná {
+
+display: flex;
+justify-content: center;
+
+
+}
+
+
+.texto{
+
+text-align:initial;
+
+}
+.imagem{
+    width: 50%;
 }
 img {
     height: px;
-    width: 300px;
-    display: flex;
+    width: 400px;
+    display:flex;
     justify-content: center;
     padding-top: 5%;
     list-style-type: none;
