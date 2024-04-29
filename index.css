@@ -46,14 +46,15 @@ justify-content: center;
 }
 
 
-.testu{
-
-text-align:initial;
+.texto{
+font-size: x-large;
+text-align:center;
 display:block;
+padding-top: 18%;
 
 }
 .imagem{
-    width: 25%;
+    width: 35%;
 }
 img {
     height: px;
